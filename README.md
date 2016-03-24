@@ -1,3 +1,3 @@
->>This is my WebGL learning experience
->> Three.js is used as a core library
-[[http://lincolnfaradey.github.io]]
+#This is my _WebGL_ learning experience
+######_Three.js_ is used as a core library
+[Preview](http://lincolnfaradey.github.io)
